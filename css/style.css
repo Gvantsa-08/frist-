@@ -1,0 +1,37 @@
+/*Base classes */
+.f-left{
+	float: left;
+}
+.f-right{
+	float: right;
+}
+.clear{
+	clear: both;
+}
+/*section 1*/
+.line1{
+	width: 1088px;
+	margin: 0 auto;
+}
+.box-1{
+	width: 536px;
+	background-color: #F8F8F8;
+}
+.box-2{
+	width: 536px;
+	background-color: #F8F8F8;
+}
+.img-box{
+	margin-right: 16px;
+}
+.line2{
+	width: 1088px;
+	margin: 0 auto;
+}
+.text-box{
+	width: 260px;
+}
+.text-blue{
+	font-size: 14px;
+	color: #5863F8;
+}
