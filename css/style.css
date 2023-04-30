@@ -8,10 +8,6 @@
 .clear{
 	clear: both;
 }
-.text-blue{
-	font-size: 14px;
-	color: #5863F8;
-}
 /*section 1*/
 .line1{
 	width: 1088px;
@@ -61,4 +57,23 @@
 .section2-line2{
 	width: 1088px;
 	margin: 0 auto;
+}
+/*finishing styles and fonts*/
+.text-blue{
+	font-size: 14px;
+	color: #5863F8;
+	font-family: 'Poppins-Bold';
+}
+.biggest-title{
+	font-size: 42px;
+	font-family: 'Poppins-ExtraBold';
+}
+.text-black{
+	font-size: 18px;
+	font-family: 'Poppins-SemiBold';
+}
+.text-grey{
+	color: #B1B1B1;
+	font-size: 14px;
+	font-family: 'Poppins-Medium';
 }
