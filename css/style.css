@@ -8,6 +8,10 @@
 .clear{
 	clear: both;
 }
+.text-blue{
+	font-size: 14px;
+	color: #5863F8;
+}
 /*section 1*/
 .line1{
 	width: 1088px;
@@ -31,8 +35,30 @@
 .text-box{
 	width: 260px;
 }
-.text-blue{
-	font-size: 14px;
-	color: #5863F8;
-}
 /*section 2*/
+.section2-line1{
+	width: 1088px;
+	margin: 0 auto;
+}
+.section-2-box-1{
+	width: 352px;
+	background-color: #F8F8F8;
+}
+.section-2-box-2{
+	width: 352px;
+	background-color: #F8F8F8;
+	margin-right: 16px;
+	margin-left: 16px;
+}
+.section-2-box-3{
+	width: 352px;
+	background-color: #F8F8F8;
+}
+.sect2-text-box{
+	height: 148px;
+	width: 260px; 
+}
+.section2-line2{
+	width: 1088px;
+	margin: 0 auto;
+}
